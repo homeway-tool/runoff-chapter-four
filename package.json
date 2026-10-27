@@ -1,0 +1,1 @@
+{"name":"runoff-chapter-four-github","private":true,"version":"1.1.0","description":"GitHub Pages + Google Firebase version","scripts":{"test":"node tests/firebase-adapter.test.cjs && node tests/calculator.test.cjs","start":"python3 -m http.server 8080"}}

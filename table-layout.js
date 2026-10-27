@@ -1,0 +1,1 @@
+globalThis.RainTableLayout={"groups":4,"headers":["單位\n延時","百分比"],"units":["(小時)","(%)"],"font":"Times New Roman","headerFont":"DFKai-SB","fontSize":11,"textColor":"#003366","headerFill":"#EFEFEF","borderColor":"#000000","columnWidth":9,"rowHeight":14,"headerHeight":30,"unitHeight":16,"numberFormat":"0.00"};
